@@ -60,7 +60,7 @@ I planned on creating a ros service as the input is only taken once per call and
 
 ### What ROS REPs did you used?
 
-ROS REP 128 for paths naming conventions and 144 for package naming conventions
+ROS REP 128 for paths naming conventions and 144 for package naming conventions and cpp style conventions such as camel case class names.
 
 ### How we could increase the overall performance?
 
@@ -75,7 +75,7 @@ Getting Familiar with the ROS packages and services and knowing how to debug.
 ## Demo
 Add unlisted youtube/drive video
 
-[Demo](yourlinkhere)
+[Demo](https://youtu.be/-OIyBZQN4kU)
 
 ## Screenshot
 

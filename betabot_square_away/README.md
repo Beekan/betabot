@@ -56,14 +56,19 @@ bool success # Did it achieve it?
 
 ### How did you plan the task?
 
+I planned on creating a ros service as the input is only taken once per call and does not need to change. A service server takes in the input defined in the srv file and acts on it. Since the shape is just a square then a 90 degree rotation is hardcoded although this could change in the future to accomadate higher number of sides.
 
 ### What ROS REPs did you used?
 
+ROS REP 128 for paths naming conventions and 144 for package naming conventions
 
 ### How we could increase the overall performance?
 
+The Data could be filtered from the odom before being used and a PID could be implemented to increase the maximum could be used speed.
 
 ### List the most time consuming problems you faced
+
+Getting Familiar with the ROS packages and services and knowing how to debug.
 
 ---
 
@@ -78,7 +83,7 @@ Add unlisted youtube/drive video
 
 ---
 
-#### NAME:
-#### ID:
+#### NAME: Mohamed Mostafa
+#### ID:201600236
 
 ---

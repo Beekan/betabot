@@ -40,9 +40,10 @@ I thought of multiple things and failed such as implementing it as an action, bu
 Rep 128/144 and cpp style conventions
 
 ### How we could increase the overall performance?
-instead of using a single ray to determine the depth straight ahead the depth could be calculated by taking into account the 360 rays around the bot.
+taking into account more edge cases
+
 ### List the most time consuming problems you faced
-finding the ray that pointed straight ahead from the bot as the sensor is put at a skewed angle in the description. 
+finding the ray that pointed straight ahead from the bot as the sensor is put at a skewed angle in the description, but after it was fixed only the logic took time. 
 
 ---
 
@@ -51,9 +52,7 @@ Add unlisted youtube/drive video
 
 [Demo](https://youtu.be/cVjUQwv25dg)
 
-### Screenshot
 
-[image](yourscreenshot)
 
 ---
 
